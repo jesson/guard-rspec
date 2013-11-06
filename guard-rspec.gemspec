@@ -18,7 +18,7 @@ Gem::Specification.new do |s|
   s.require_path = 'lib'
 
   s.add_dependency 'guard', '>= 2.1.1'
-  s.add_dependency 'rspec', '2.14.7'
+  s.add_dependency 'rspec', '2.14.1'
   s.add_development_dependency 'bundler', '>= 1.3.5'
   s.add_development_dependency 'rake'
   s.add_development_dependency 'rspec'
